@@ -54,7 +54,7 @@ function Projects() {
         <div>
           <h2 className=' items-center font-bold text-4xl text-black flex border-b-4 border-[#001F3F]'>Projects</h2>
           <br />
-          <p className=' md:text-xl text-base  '> Check out My Projects </p>
+          <p className=' md:text-lg text-base  '> Check out My Projects </p>
         </div>
         <div className='px-15 md:p-0 grid  sm:grid-cols-3 grid-cols-1  gap-10'>
           {/* for cards */}

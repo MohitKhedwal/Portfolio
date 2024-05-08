@@ -82,7 +82,7 @@ function Home() {
                     <h3 className='text-2xl sm:text-3xl '> Hi I am</h3>
                     <h1 className=' text-5xl sm:text-5xl text-black font-bold'  >Mohit Khedwal</h1>
                     <h2 className='text-4xl sm:text-4xl' >   I am a   <span ref={el}> </span> </h2>
-                    <p className='sm:text-xl text-base pt-2'>
+                    <p className='md:text-lg text-base pt-2'>
                     Thank you for visiting my personal website! My name is Mohit Khedwal, and I'm a bachelor of technology student studying information technology at the moment. You may see a selection of my work and projects that highlight my expertise, enthusiasm, and front-end programming skills in this portfolio. It also contains a solid foundation in web development. I am always trying to get better and learn more about the industry, whether it be with an e-commerce website or a blog website. I appreciate you taking the time to browse at my portfolio, and I'm excited to get in contact with you.
                           </p>
                     <div className='flex md:hidden w-full mt-2 p-2 pl-0'>

@@ -9,7 +9,7 @@ function Contact() {
             <div>
                 <h2 className='flex text-black  font-bold border-b-4 border-[#001F3F] md:text-xl text-base '> Contact </h2>
                 <br />
-                <p className='md:text-xl text-base  '>Submit this form to reach me out </p>
+                <p className='md:text-lg text-base  '>Submit this form to reach me out </p>
             </div>
              <div className='bg-[#ECE3D7] p-2 rounded-xl justify-center  flex flex-col'>
                <form action="https://getform.io/f/jbwxwlga" method="post" className='w-1/2  flex flex-col '>
