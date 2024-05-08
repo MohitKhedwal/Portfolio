@@ -90,7 +90,7 @@ function Home() {
                         {
                            socials.map((item)=>(
                             <li key={item.id} className=''>
-                                <a href={item.path} load={item.load} target='_blank'>{item.icon}</a>
+                                <a href={item.path} download={item.load} target='_blank'>{item.icon}</a>
                             </li>
                            ))
                         }

@@ -12,7 +12,7 @@ function Social() {
             title:"Linkdein",
             link:"https://www.linkedin.com/",
             icon:<FaLinkedin size={30}/>,
-            load:true,
+            // load:true,
 
         },
         {
@@ -20,7 +20,7 @@ function Social() {
             title:"Github",
             link:"https://github.com/",
             icon:<FaGithub size={30}/>,
-            load:true,
+            // load:true,
 
         },
         {
@@ -28,7 +28,7 @@ function Social() {
             title:"Twitter",
             link:"https://twitter.com",
             icon:<FaTwitter size={30}/>,
-            load:true,
+            // load:true,
 
         },
         {
@@ -36,7 +36,7 @@ function Social() {
             title:"Gmail",
             link:"mailto:mohitatwork21@gmail.com",
             icon:<SiGmail  size={30}/>,
-            load:true,
+            // load:true,
 
 
         },

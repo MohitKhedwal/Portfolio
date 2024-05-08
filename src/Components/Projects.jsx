@@ -1,42 +1,48 @@
 import React from 'react'
 import ptry from "../assets/image/ptry.jpg"
+import blog from "../assets/image/blog.png"
+import portfolio from "../assets/image/portfolio.png"
+import webdevecom from "../assets/image/webdevecom.png"
+import  weather from "../assets/image/weather.png"
+import todo from "../assets/image/todo.png"
+import detection from "../assets/image/detection.png"
 
 function Projects() {
 
   const projectlist = [
     {
       id: 1,
-      src: ptry,
-      link: "https://github.com/",
+      src: blog,
+      link: "https://github.com/MohitKhedwal/Blog-Website",
       head:"Blog Website"
     },
     {
       id: 2,
-      src: ptry,
-      link: "https://github.com/",
+      src: portfolio,
+      link: "https://github.com/MohitKhedwal/Portfolio",
       head: "Portfolio"
     },
     {
       id: 3,
-     src: ptry,
-      link: "https://github.com/",
+     src: webdevecom,
+      link: "https://github.com/MohitKhedwal/webDevE-com",
       head:"E-commerce"
     },
     {
       id: 4,
-      src: ptry,
-      link: "https://github.com/",
+      src: weather,
+      link: "https://github.com/MohitKhedwal/4_ReactWeatherApp",
       head:"Weather App"
     },
     {
       id: 5,
-      src: ptry,
-      link: "https://github.com/",
+      src: todo,
+      link: "https://github.com/MohitKhedwal/Todoapp",
       head:"Todo App"
     },
     // {
     //   id: 6,
-    //   src: ptry,
+    //   src: detection,
     //   link: "https://github.com/",
     //   head:" p6"
     // },
@@ -53,7 +59,7 @@ function Projects() {
         <div className='px-15 md:p-0 grid  sm:grid-cols-3 grid-cols-1  gap-10'>
           {/* for cards */}
           {projectlist.map(({ id, link, src,head }) => (
-            <div key={id} className='rounded-lg shadow-md shadow-[#DDD0C0] p-2 mt-5'>
+            <div key={id} className='rounded-lg shadow-md shadow-[#DDD0C0] p-2 mt-5 border border-black border-solid'>
               <img src={src} alt="" className='rounded-lg  hover:scale-110 duration-200 ' />
               <p className='text-xl w-full text-center '> {head} </p>
               <hr className='text-black' />

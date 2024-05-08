@@ -42,12 +42,12 @@ function Experience() {
       title:"Tailwind CSS",
       style: "shadow-sky-400",
     },
-    {
-      id:6,
-      src:github,
-      title:"GitHub",
-      style: "shadow-gray-400",
-    },
+    // {
+    //   id:6,
+    //   src:github,
+    //   title:"GitHub",
+    //   style: "shadow-gray-400",
+    // },
   ]
   return (
     <div  className=' md:h-screen w-full bg-[#FDF7EF]' name="Experience">
