@@ -75,9 +75,9 @@ function Home() {
    
     
     return (
-        <div name="Home" className=' w-full h-screen   flex bg-gradient-to-b from-[#e3ddda] to-[#FDF7EF]'>
+        <div name="Home" className=' w-full h-screen   flex bg-gradient-to-b from-[#e3ddda] to-[#FDF7EF] '>
             {/* left side */}
-            <div className=' text-[#333333] max-w-screen-lg  mx-auto items-center justify-center  md:justify-between  h-full flex  flex-col px-4 md:flex-row md:mt-0 mt-20'>
+            <div className=' text-[#333333] max-w-screen-lg  mx-auto items-center justify-center  md:justify-between  h-full flex  flex-col px-4 md:flex-row mt-32 md:mt-0'>
                 <div className='  gap-y-8'>
                     <h3 className='text-2xl sm:text-3xl '> Hi I am</h3>
                     <h1 className=' text-5xl sm:text-5xl text-black font-bold'  >Mohit Khedwal</h1>

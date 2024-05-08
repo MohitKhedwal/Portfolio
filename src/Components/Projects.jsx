@@ -8,38 +8,38 @@ function Projects() {
       id: 1,
       src: ptry,
       link: "https://github.com/",
-      head:" p1"
+      head:"Blog Website"
     },
     {
       id: 2,
       src: ptry,
       link: "https://github.com/",
-      head:" p2"
+      head: "Portfolio"
     },
     {
       id: 3,
      src: ptry,
       link: "https://github.com/",
-      head:" p3"
+      head:"E-commerce"
     },
     {
       id: 4,
       src: ptry,
       link: "https://github.com/",
-      head:" p4"
+      head:"Weather App"
     },
     {
       id: 5,
       src: ptry,
       link: "https://github.com/",
-      head:" p5"
+      head:"Todo App"
     },
-    {
-      id: 6,
-      src: ptry,
-      link: "https://github.com/",
-      head:" p6"
-    },
+    // {
+    //   id: 6,
+    //   src: ptry,
+    //   link: "https://github.com/",
+    //   head:" p6"
+    // },
     
   ]
   return (

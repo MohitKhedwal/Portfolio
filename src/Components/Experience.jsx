@@ -54,9 +54,9 @@ function Experience() {
       <div className=' flex flex-col w-full h-full mx-auto text-[#333333] max-w-screen-lg justify-center  '>
       <div>
       <h2 className='font-bold text-black flex text-4xl border-b-4 border-[#001F3F] mt-10'> Experience </h2>
-      <p className='text-xl mt-4'> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Enim, itaque ipsam. Eligendi mollitia nam earum, quia adipisci illo labore voluptatem quas deleniti corporis quasi odit.</p>
-      </div>
-      <div className="w-full grid grid-cols-2 sm:grid-cols-3 gap-8 text-center py-8 px-12 sm:px-0 ">
+      <p className='text-xl mt-4'> I am proficient with technologies like as git, javascript, html5, CSS, and Tailwind.</p> </div>
+      {/* <div className="w-full grid grid-cols-2 sm:grid-cols-3 gap-8 text-center py-8 px-12 sm:px-0 "> */}
+      <div className='w-full grid grid-cols-2 sm:grid-cols-3 gap-8 text-center py-8 px-12 sm:px-0'>
           {techlist.map(({ id, src, title, style }) => (
             <div
               key={id}
