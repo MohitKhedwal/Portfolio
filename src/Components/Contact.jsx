@@ -1,5 +1,6 @@
 import React from 'react'
-import { TbMessage2Share } from "react-icons/tb";
+// import { TbMessage2Share } from "react-icons/tb";
+import { FaMessage } from "react-icons/fa6";
 
 function Contact() {
   return (
@@ -30,7 +31,7 @@ function Contact() {
                 
                 <div className='flex  mt-4  ml-4' >
                 <button type="button" className=' group rounded-lg font-bold bg-gradient-to-r from-red-500 to-[#FF6B6B] p-2 flex items-center gap-x-3'> Submit 
-                <span className=' group-hover:rotate-180 duration-300'> <TbMessage2Share /></span> </button>
+                <span className=' group-hover:rotate-180 duration-300'> <FaMessage /></span> </button>
               
                 </div>
                  </form>
