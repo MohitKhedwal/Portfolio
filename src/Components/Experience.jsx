@@ -50,7 +50,7 @@ function Experience() {
     // },
   ]
   return (
-    <div  className=' md:h-screen w-full bg-[#FDF7EF]' name="Experience ">
+    <div  className=' md:h-screen w-full bg-[#FDF7EF]' name="Experience">
       <div className=' flex flex-col w-full h-full mx-auto text-[#333333] max-w-screen-lg justify-center  '>
       <div>
       <h2 className='font-bold text-black flex text-4xl border-b-4 border-[#001F3F] mt-10'> Experience </h2>
