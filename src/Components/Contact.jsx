@@ -5,7 +5,7 @@ import { FaMessage } from "react-icons/fa6";
 function Contact() {
   return (
     <div name="Contact" className='md:h-screen  w-full bg-[#FDF7EF]'>
-        <div className='h-full w-full max-w-screen-lg mx-auto flex flex-col justify-center  '>
+        <div className='h-full w-[95%] max-w-screen-lg mx-auto flex flex-col justify-center  '>
             <div>
                 <h2 className='flex text-black  font-bold border-b-4 border-[#001F3F] md:text-xl text-base '> Contact </h2>
                 <br />

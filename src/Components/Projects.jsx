@@ -50,7 +50,7 @@ function Projects() {
   ]
   return (
     <div name="Projects" className=' w-full bg-[#FDF7EF] md:h-screen    '>
-      <div className='flex flex-col   text-[#333333]  justify-center  w-full  max-w-screen-lg  mx-auto h-full  '>
+      <div className='flex flex-col   text-[#333333]  justify-center  w-[95%]  max-w-screen-lg  mx-auto h-full  '>
         <div>
           <h2 className=' items-center font-bold text-4xl text-black flex border-b-4 border-[#001F3F]'>Projects</h2>
           <br />

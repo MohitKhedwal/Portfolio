@@ -4,7 +4,7 @@ function About() {
   return (
     <>
       <div name="About" className=' w-full bg-[#FDF7EF] md:h-screen h-full     '>
-        <div className='flex flex-col   text-[#333333]  justify-center  w-full max-w-screen-lg mx-auto h-full pt-10 md:pt-0 pb-4 '>
+        <div className='flex flex-col   text-[#333333]  justify-center w-[95%]  max-w-screen-lg mx-auto h-full pt-10 md:pt-0 pb-4  '>
           <div>
             <h2 className='justify-start items-center font-bold text-4xl text-black flex border-b-4 border-[#001F3F]'>About Me</h2>
           </div>
