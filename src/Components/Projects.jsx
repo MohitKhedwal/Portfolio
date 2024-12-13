@@ -6,15 +6,28 @@ import webdevecom from "../assets/image/webdevecom.png"
 import  weather from "../assets/image/weather.png"
 import todo from "../assets/image/todo.png"
 import detection from "../assets/image/detection.png"
+import Job from "../assets/image/Job.png"
 
 function Projects() {
 
   const projectlist = [
     {
+      id: 6,
+      src: Job,
+      link: "https://github.com/MohitKhedwal/Job-portal/tree/main",
+      head:"HireSphere"
+    },
+
+    {
       id: 1,
       src: blog,
       link: "https://github.com/MohitKhedwal/Blog-Website",
       head:"Blog Website"
+    },   {
+      id: 7,
+      src: detection,
+      link: "https://github.com/MohitKhedwal/image-detection-project",
+      head:"AI Image detection"
     },
     {
       id: 2,
@@ -40,12 +53,7 @@ function Projects() {
       link: "https://github.com/MohitKhedwal/Todoapp",
       head:"Todo App"
     },
-    // {
-    //   id: 6,
-    //   src: detection,
-    //   link: "https://github.com/",
-    //   head:" p6"
-    // },
+
     
   ]
   return (

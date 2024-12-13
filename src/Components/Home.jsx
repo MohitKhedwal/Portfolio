@@ -13,7 +13,7 @@ function Home() {
 
     useEffect(() => {
       const typed = new Typed(el.current, {
-        strings: ["Learner", "Javascript Developer", "React Developer","Frontend Developer"  ], // Strings to display
+        strings: ["Learner",  "MERN Developer" , "React Developer","Frontend Developer","Full Stack" ], // Strings to display
         // Speed settings, try diffrent values untill you get good results
         startDelay: 300,
         typeSpeed: 100,

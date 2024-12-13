@@ -7,6 +7,8 @@ import github from "../assets/image/github.png"
 import html from "../assets/image/html.png"
 import react from "../assets/image/react.png"
 import tailwind from "../assets/image/tailwind.png"
+import Node from "../assets/image/Node.png"
+import mongo from "../assets/image/mongo"
 
 
 function Experience() {
@@ -40,6 +42,26 @@ function Experience() {
       id:5,
       src:tailwind,
       title:"Tailwind CSS",
+      style: "shadow-sky-400",
+    },{
+      id:6,
+      src:dsa,
+      title:"Data Structures and Algorithms ",
+      style: "shadow-sky-400",
+    },{
+      id:7,
+      src:Cp,
+      title:"C++ ",
+      style: "shadow-sky-400",
+    },{
+      id:8,
+      src:Node,
+      title:"Node.js ",
+      style: "shadow-sky-400",
+    },{
+      id:9,
+      src:mongo,
+      title:"MongoDB ",
       style: "shadow-sky-400",
     },
     // {

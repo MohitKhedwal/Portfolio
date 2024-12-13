@@ -10,23 +10,17 @@ function About() {
           </div>
           <p className='flex justify-center md:text-lg text-base  mt-7'>
             <br />
-            Hi there! My name is Mohit Khedwal and I work as a front-end developer. I specialize in creating user interfaces that are responsive and modern, utilizing a variety of technologies such as HTML, CSS, JavaScript, Tailwind CSS, and ReactJS. I approach every project I work on with creativity and technical know-how, having a strong background in web development.
-          </p>
+            Hi, I'm Mohit Khedwal, a dedicated MERN stack developer with a passion for building dynamic and scalable web applications. I specialize in creating seamless user interfaces using ReactJS, developing robust backends with Node.js and Express, and efficiently managing data with MongoDB. Combining creativity with technical expertise, I approach every project with a focus on delivering user-centric and high-performance solutions.         </p>
           <br />
           <p className=' justify-center md:text-lg text-base   '>
             What I Provide:
             <br />
-            <strong>ReactJS Understanding:</strong> I am highly proficient at using ReactJS and react-router-dom to create dynamic, interactive single- and multi-page applications. I guarantee scalable and manageable codebases by utilizing functional components, hooks, and state management tools like Redux.
-            <br />
-            <strong>Tailwind CSS Wizardry:</strong> I know how to quickly style applications with Tailwind CSS, utilizing its utility classes to produce slick designs without having to write bespoke CSS. I can concentrate less on tedious style chores and more on functionality with this method.
-            <br />
-            <strong>HTML & CSS Proficiency:</strong> I am proficient with both HTML5 and CSS3, which guarantees attractive styling and semantic markup. I have expertise incorporating animations and transitions into responsive design to improve user experience.
-            <br />
-            <strong>Expertise in JavaScript:</strong> Since JavaScript is the foundation of frontend development, I take advantage of its capabilities to build sophisticated functionality and interactive features. I know a lot about contemporary JavaScript frameworks and ES6+ standards.
-            <br />
-          <strong>  Collaborative Approach:</strong> I work well in groups, collaborating closely with stakeholders, backend engineers, and designers to produce outstanding outcomes. To ensure project success, I emphasize transparent communication and agile approaches.
-
-          </p>
+            <strong>ReactJS Expertise:</strong>I specialize in developing dynamic, user-centric applications using ReactJS, including seamless navigation with react-router-dom. By leveraging functional components, hooks, and state management tools like Redux, I ensure codebases are scalable, maintainable, and optimized for performance.  <br />
+            <strong>Tailwind CSS Proficiency:</strong>I create visually appealing and responsive designs using Tailwind CSS, leveraging its utility-first framework to efficiently style applications without writing extensive custom CSS. This approach allows me to focus on enhancing functionality and user experience.   <br />
+            <strong>Full-Stack JavaScript Development:</strong> With proficiency in both frontend and backend JavaScript, I build robust and scalable web applications. I utilize Node.js and Express to handle server-side operations and API integrations, ensuring secure and efficient performance.            <br />
+            <strong>Database Management with MongoDB:</strong>I am skilled in using MongoDB for managing data, creating schemas, and performing efficient CRUD operations. This enables me to build data-driven applications with robust backend support.           <br />
+          <strong>  HTML & CSS Mastery:</strong> I ensure semantic and accessible web designs with expertise in HTML5 and CSS3. I also incorporate animations and transitions to enhance user engagement and deliver responsive interfaces. <br />
+          <strong>Collaborative Development::</strong>I excel at working in teams, collaborating with designers, stakeholders, and backend developers to deliver high-quality solutions. I prioritize agile methodologies and transparent communication to ensure project success from planning to deployment.          </p>
 
 
         </div>
