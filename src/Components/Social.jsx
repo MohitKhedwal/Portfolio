@@ -2,6 +2,7 @@ import React from 'react'
 import { FaGithub,FaLinkedin,FaTwitter } from "react-icons/fa";
 import { SiGmail } from "react-icons/si";
 import { IoMdDocument } from "react-icons/io";
+import Resume from ""
 
 
 function Social() {
