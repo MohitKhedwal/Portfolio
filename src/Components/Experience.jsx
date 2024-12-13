@@ -70,6 +70,7 @@ function Experience() {
     //   title:"GitHub",
     //   style: "shadow-gray-400",
     // },
+    // jbbjhb
   ]
   return (
     <div  className=' md:h-screen w-full bg-[#FDF7EF]' name="Experience">
