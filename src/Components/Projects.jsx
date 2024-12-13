@@ -47,12 +47,7 @@ function Projects() {
       link: "https://github.com/MohitKhedwal/4_ReactWeatherApp",
       head:"Weather App"
     },
-    {
-      id: 5,
-      src: todo,
-      link: "https://github.com/MohitKhedwal/Todoapp",
-      head:"Todo App"
-    },
+   
 
     
   ]

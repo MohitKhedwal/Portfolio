@@ -8,7 +8,7 @@ import html from "../assets/image/html.png"
 import react from "../assets/image/react.png"
 import tailwind from "../assets/image/tailwind.png"
 import Node from "../assets/image/Node.png"
-import mongo from "../assets/image/mongo"
+import mongo from "../assets/image/mongo.png"
 
 
 function Experience() {
